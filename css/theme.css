@@ -1,0 +1,18 @@
+body {
+  background-color: #282c34;
+  font-family: consolas;
+  color: #ffffff;
+}
+
+.logo {
+  width: 300px;
+  height: 300px;
+}
+
+.title {
+  font-size: 50px;
+}
+
+.signup {
+  margin-top: 40px;
+}
